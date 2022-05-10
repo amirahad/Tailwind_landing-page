@@ -1,1 +1,1 @@
-WLive On: https://tailwind-landing-page-1.netlify.app/
+Live On: https://tailwind-landing-page-1.netlify.app/
